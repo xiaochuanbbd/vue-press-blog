@@ -1,5 +1,5 @@
 module.exports = {
-  base:'/myBlog-vue-press/',
+  base:'/vue-press-blog/',
   title: '晓川个人笔记',
   description: '学习，复习 ，自用',
   logo: '/mangguo.png',
