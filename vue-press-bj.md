@@ -12,3 +12,12 @@ docs/.vuepress/templates/dev.html: 用于开发环境的 HTML 模板文件。
 docs/.vuepress/templates/ssr.html: 构建时基于 Vue SSR 的 HTML 模板文件。
 docs/.vuepress/config.js: 配置文件的入口文件，也可以是 YML 或 toml。
 docs/.vuepress/enhanceApp.js: 客户端应用的增强。
+
+## 功能点：
+### nav导航
+### 侧边栏自动生成
+### 部署github
+todolist:
+1. 每日更新的博客，列表状，重新添加主题
+2. 多语言
+3. 部署到自己的服务器 ，需要买一个服务器
